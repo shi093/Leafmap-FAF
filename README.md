@@ -14,4 +14,4 @@ faf4_zone2.json: JSON file for FAF zones
 
 od_mode_vol_45.CSV: Origin-destination flows by mode, including tons (000) and $ values (millions)
 
-https://colab.research.google.com/github/shi093/Leafmap-FAF/blob/main/interactive_leafmap.ipynb
+[![Open In Colab](https://colab.research.google.com/github/shi093/Leafmap-FAF/blob/main/interactive_leafmap.ipynb]
